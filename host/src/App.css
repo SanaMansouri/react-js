@@ -1,0 +1,33 @@
+img{
+    width: 100%;
+}
+body{
+    background-image: url("BIRD.PNG");
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+form{
+    background-color: transparent;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50, -50);
+ 
+}
+.rest-btn{
+    color: rgb(144, 10, 19);
+}
+.subm-btn{
+    color: rgb(231, 238, 234);
+    background-color: rgb(15, 127, 38);
+}
+.subm-btn:hover{
+    background-color: rgb(98, 190, 105);
+    
+}
+footer{
+    padding-bottom: 0%;
+    padding-top: 39%;
+    padding-left: 83%;
+}
